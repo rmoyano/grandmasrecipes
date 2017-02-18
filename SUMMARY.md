@@ -1,5 +1,5 @@
 # Summary
-* [Preface](README.md)
+* [Introducción](README.md)
 
 ### Cocina criolla
 
