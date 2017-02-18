@@ -1,4 +1,4 @@
-# Locro de maíz 
+# Tarta de atún
 
 ## Historia
 
